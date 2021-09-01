@@ -1,5 +1,5 @@
 # bot-api-status-discord
-A simple json API that fetches online members from your Discord server.
+A simple json API that fetches online members from your Discord server in Node.JS.
 
 ---
 Install the required dependency presented in the **package.json** file
